@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["ratnakarrao_nyros@yahoo.com"]
   spec.description   = %q{devise with bootstrap}
   spec.summary       = %q{devise with bootstrap}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/ratnakarrao-nyros/devbootsrap"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
