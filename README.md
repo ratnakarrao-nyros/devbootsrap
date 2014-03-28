@@ -29,13 +29,15 @@ after bundle you can use all devise generators and twitter bootstrap generators 
   with normal devise gem 
   
  <p>
- <img style="max-width:100%;" title="index" alt="index"      src="https://github.com/ratnakarrao-nyros/devbootsrap/blob/master/screenshots/devise.png">
+ 
+ 
+ <img style="max-width:100%;" title="index" alt="index"     src="https://github.com/ratnakarrao-nyros/devbootsrap/raw/master/screenshots/devise.png">
  </p>
  
  with Devisebootstrap gem
  
   <p>
- <img style="max-width:100%;" title="index" alt="index"      src="https://github.com/ratnakarrao-nyros/devbootsrap/blob/master/screenshots/devisebootstrap.png">
+ <img style="max-width:100%;" title="index" alt="index"      src="https://github.com/ratnakarrao-nyros/devbootsrap/raw/master/screenshots/devisebootstrap.png">
  </p>
  
 
