@@ -1,6 +1,10 @@
 # Devbootsrap
 
-TODO: Write a gem description
+  This gem is the combination of both devise and twitter bootstrap , we can use directly this gem instead of using both devise and twitter bootstrap separately 
+
+  the original documentaion for devise (https://github.com/plataformatec/devise)
+
+  and for twiiter bootstrap (https://github.com/seyhunak/twitter-bootstrap-rails)
 
 ## Installation
 
@@ -18,7 +22,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+after bundle you can use all devise generators and twitter bootstrap generators happily
 
 ## Contributing
 
