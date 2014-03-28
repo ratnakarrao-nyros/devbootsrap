@@ -24,6 +24,14 @@ Or install it yourself as:
 
 after bundle you can use all devise generators and twitter bootstrap generators happily
 
+## Screeshots
+
+Screenshots
+ 
+ ================================
+ 
+
+
 ## Contributing
 
 1. Fork it
